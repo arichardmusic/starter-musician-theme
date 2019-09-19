@@ -7,9 +7,9 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Starter Site for Gatsby Theme Musician",
-    description: "",
-    siteUrl: "https://github.com/ekafyi/starter-musician-theme"
+    title: "Aaron Richard Music",
+    description: "Contemporary, Singer-Songwriter, Pop, Modern Rock, Indie, Country Pop, a blend of many things",
+    siteUrl: "https://arichardmusic.netlify.com"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
