@@ -1,22 +1,22 @@
 artist:
-  name: Your Awesome Band
-  tagline: Short information about your group, new album, etc
+  name: Aaron Richard Music
+  tagline: Contemporary, Singer-Songwriter, Pop, Modern Rock, Indie, Country Pop, a blend of many things
   # seo_title:
   # seo_description:
-  # contact_twitter_username:
+  contact_twitter_username: ARichardMusic
   # contact_phone: 
   # contact_email: 
 
 social:
   - name: Facebook
-    url: https://facebook.com
+    url: https://www.facebook.com/ARichardMusic/
   - name: Instagram
-    url: https://instagram.com
+    url: https://www.instagram.com/arichardmusic/
   - name: Twitter
-    url: https://twitter.com
+    url: https://twitter.com/ARichardMusic
   - name: Youtube
-    url: https://youtube.com
+    url: https://www.youtube.com/channel/UCXlZ95GNxtEWNOAKQJ_XvIw
   - name: Spotify
-    url: https://spotify.com
+    url: https://open.spotify.com/artist/0UbIzwCBITNCVBP3PU0AQz?si=ywfnms3sTmS43zqfAQupHQ
 
 site_language: en
