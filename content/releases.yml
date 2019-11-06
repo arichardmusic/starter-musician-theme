@@ -1,10 +1,10 @@
-- title: Sample Release 1
-  date: 2014-01-01
+- title: "Icarus
+  date: 2019-11-06
   release_type: Album
-  image: "./images/placeholder.jpg"
+  image: "./images/aaronrichardalbumcover.jpg"
   links:
-    - name: Discogs
-      url: https://discogs.com
+    - name: DistroKid
+      url: https://distrokid.com/hyperfollow/aaronrichard1/icarus?fbclid=IwAR3qbuIQcBuQfmywD3IYZOknkrA0oKQuXRO7DoStv8vhKHV39q2me8C1dQQ
 
 - title: Sample Release 2
   date: 2018-01-01
