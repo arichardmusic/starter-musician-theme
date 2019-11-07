@@ -6,13 +6,13 @@
     - name: DistroKid
       url: https://distrokid.com/hyperfollow/aaronrichard1/icarus?fbclid=IwAR3qbuIQcBuQfmywD3IYZOknkrA0oKQuXRO7DoStv8vhKHV39q2me8C1dQQ
 
-- title: Sample Release 2
-  date: 2018-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
+- title: The Depression Sessions
+  date: 2019-02-26
+  release_type: EP
+  image: "./images/TheDepressionSessionsalbumcover.jpg"
   links:
-    - name: Bandcamp
-      url: https://bandcamp.com
+    - name: Amazon MP3
+      url: https://www.amazon.com/Depression-Sessions-Aaron-Richard/dp/B07NVY2YXL
 
 - title: Sample Release 3
   date: 2019-01-01
