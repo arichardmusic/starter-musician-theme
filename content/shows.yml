@@ -1,15 +1,14 @@
-- name: Sample Show 1
-  date: "2019-08-10"
-  location: Venue Name, Address, City/Region
+- name: Christmas Show @ 106 West in Winder, GA
+  date: "2019-12-15"
+  location: 106 West, 106 W Athens St, Winder, GA
   # info_url and map_url are optional
-  info_url: https://facebook.com/events
-  map_url: https://maps.google.com
+ 
 
-- name: Sample Show 2
-  date: "2019-08-31"
-  location: Venue Name, Address, City/Region
-  info_url: https://facebook.com/events
+- name: Local Showcase in the Backroom @ Music Authority in Cumming, GA
+  date: "2020-01-12"
+  location: Music Authority, 123 Merchants Square, Cumming, GA
+  
 
-- name: Sample Show 3
-  date: "2019-09-02"
-  location: Venue Name, Address, City/Region
+- name: Live @ The Spot in Chattanooga, TN
+  date: "2020-01-18"
+  location: The Spot, 1800 E Main St, Chattanooga, TN
