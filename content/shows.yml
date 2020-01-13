@@ -1,14 +1,14 @@
-- name: Christmas Show @ 106 West in Winder, GA
-  date: "2019-12-15"
-  location: 106 West, 106 W Athens St, Winder, GA
+- name: Live @ The Spot in Chattanooga, TN
+  date: "2020-01-19"
+  location: The Spot, 1800 E Main St, Chattanooga, TN
   # info_url and map_url are optional
  
 
-- name: Local Showcase in the Backroom @ Music Authority in Cumming, GA
-  date: "2020-01-12"
+- name: Live @ The Backroom - Music Authority in Cumming, GA
+  date: "2020-02-02"
   location: Music Authority, 123 Merchants Square, Cumming, GA
   
 
-- name: Live @ The Spot in Chattanooga, TN
-  date: "2020-01-18"
-  location: The Spot, 1800 E Main St, Chattanooga, TN
+- name: Our Rock : A His Rock Benefit Event @ Ponce de Leon Music Store in Cumming, GA
+  date: "2020-02-09"
+  location: Ponce de Leon Music Store, 1060 Dahlonega Hwy, Cumming, GA
