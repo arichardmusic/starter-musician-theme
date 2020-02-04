@@ -1,14 +1,14 @@
-- name: Live @ The Spot in Chattanooga, TN
-  date: "2020-01-19"
-  location: The Spot, 1800 E Main St, Chattanooga, TN
-  # info_url and map_url are optional
- 
-
-- name: Live @ The Backroom - Music Authority in Cumming, GA
-  date: "2020-02-02"
-  location: Music Authority, 123 Merchants Square, Cumming, GA
-  
-
 - name: Our Rock, His Rock Benefit Event @ Ponce de Leon Music Store in Cumming, GA
   date: "2020-02-09"
   location: Ponce de Leon Music Store, 1060 Dahlonega Hwy, Cumming, GA
+  # info_url and map_url are optional
+ 
+
+- name: Original Artist Battle @ Connect Live in Woodstock, GA
+  date: "2020-02-16"
+  location: Connect Live Venue and Studios, 6835 Victory Dr, Woodstock, GA
+  
+
+- name: Songwriters in the Round @ Smith's Olde Bar in Atlanta, GA
+  date: "2020-02-17"
+  location: Atlanta Room in Smith's Olde Bar, 1578 Piedmont Ave NE, Atlanta, GA
