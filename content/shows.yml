@@ -1,24 +1,29 @@
 - name: Original Artist Battle @ Connect Live in Woodstock, GA
   date: "2020-02-16"
   location: Connect Live Venue and Studios, 6835 Victory Dr, Woodstock, GA
+  info_url: https://www.facebook.com/events/2214545125313985/
   # info_url and map_url are optional
  
 
 - name: Songwriters in the Round @ Smith's Olde Bar in Atlanta, GA
   date: "2020-02-17"
   location: Atlanta Room in Smith's Olde Bar, 1578 Piedmont Ave NE, Atlanta, GA
+  info_url: https://facebook.com/events/s/writers-on-the-road-ft-richlov/1563053227185894/?ti=icl
   
 
 - name: North Georgia House Concert Series @ The Sweetwater Cafe in Cumming, GA
   date: "2020-03-01"
   location: Sweetwater Cafe House Concerts, 3190 Sweetwater Dr, Cumming, GA
+  info_url: http://sweetwater-cafe.com/
   
   
 - name: Georgia Has Talent Event in Canton, GA
   date: "2020-03-08"
   location: Cherokee High School Auditorium, 930 Marietta Hwy, Canton, GA
+  info_url: http://www.georgiahastalent.com/index.php
   
   
 - name: Nashville Rising Song Contest @ The Dogwood in Nashville, TN
   date: "2020-03-10"
   location: The Dogwood, 1907 Division St, Nashville, TN
+  info_url: https://www.nashvillerisingsong.com/
