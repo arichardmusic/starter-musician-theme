@@ -1,14 +1,24 @@
-- name: Our Rock, His Rock Benefit Event @ Ponce de Leon Music Store in Cumming, GA
-  date: "2020-02-09"
-  location: Ponce de Leon Music Store, 1060 Dahlonega Hwy, Cumming, GA
-  # info_url and map_url are optional
- 
-
 - name: Original Artist Battle @ Connect Live in Woodstock, GA
   date: "2020-02-16"
   location: Connect Live Venue and Studios, 6835 Victory Dr, Woodstock, GA
-  
+  # info_url and map_url are optional
+ 
 
 - name: Songwriters in the Round @ Smith's Olde Bar in Atlanta, GA
   date: "2020-02-17"
   location: Atlanta Room in Smith's Olde Bar, 1578 Piedmont Ave NE, Atlanta, GA
+  
+
+- name: North Georgia House Concert Series @ The Sweetwater Cafe in Cumming, GA
+  date: "2020-03-01"
+  location: Sweetwater Cafe House Concerts, 3190 Sweetwater Dr, Cumming, GA
+  
+  
+- name: Georgia Has Talent Event in Canton, GA
+  date: "2020-03-08"
+  location: Cherokee High School Auditorium, 930 Marietta Hwy, Canton, GA
+  
+  
+- name: Nashville Rising Song Contest @ The Dogwood in Nashville, TN
+  date: "2020-03-10"
+  location: The Dogwood, 1907 Division St, Nashville, TN
