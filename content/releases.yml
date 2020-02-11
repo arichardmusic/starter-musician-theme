@@ -3,23 +3,39 @@
   release_type: Album
   image: "./images/Icarusalbumcover.jpg"
   links:
-    - name: DistroKid
-      url: https://distrokid.com/hyperfollow/aaronrichard1/icarus?fbclid=IwAR3qbuIQcBuQfmywD3IYZOknkrA0oKQuXRO7DoStv8vhKHV39q2me8C1dQQ
+    - name: iTunes
+      url: https://music.apple.com/us/album/icarus/1477111589?app=music&ign-mpt=uo%3D4
+    - name: Amazon
+      url: http://www.amazon.com/gp/product/B07WSJFBPX/?tag=distrokid06-20
+    - name: Spotify
+      url: https://open.spotify.com/album/0l3IePlyyj0XPPEmgMAMPm
+    - name: Google Play
+      url: https://play.google.com/store/music/album/Aaron_Richard_Icarus?id=Bm2sykvo2lauusjc36rvy7mrwzq
 
 - title: The Depression Sessions
   date: 2019-02-26
   release_type: EP
   image: "./images/TheDepressionSessionsalbumcover.jpg"
   links:
-    - name: Amazon MP3
+    - name: iTunes
+      url: https://music.apple.com/us/album/the-depression-sessions-ep/1453699264?app=music&ign-mpt=uo%3D4
+    - name: Amazon
       url: https://www.amazon.com/Depression-Sessions-Aaron-Richard/dp/B07NVY2YXL
+    - name: Spotify
+      url: https://open.spotify.com/album/26UdEluugLjJWGcgn8yNFg
+    - name: Google Play
+      url: https://play.google.com/store/music/album/Aaron_Richard_The_Depression_Sessions?id=Brb4ofxas5d7lwgytdy5d4chrze
 
 - title: Get This New Year Over With
   date: 2019-01-01
   release_type: Single
   image: "./images/GTNYOWsinglecover.jpg"
   links:
-    - name: Amazon MP3
-      url: https://www.amazon.com/Get-This-New-Year-Over/dp/B07MB4G81Y/ref=sr_1_1?keywords=aaron+richard+get+this+new+year+over+with&qid=1573163227&sr=8-1
-    - name: Apple Music
+    - name: iTunes
       url: https://music.apple.com/us/album/get-this-new-year-over-with-single/1448132551
+    - name: Amazon
+      url: https://www.amazon.com/Get-This-New-Year-Over/dp/B07MB4G81Y/ref=sr_1_1?keywords=aaron+richard+get+this+new+year+over+with&qid=1573163227&sr=8-1
+    - name: Spotify
+      url: https://open.spotify.com/album/3qH0ZT7rVa5rKfrZhT0rak
+    - name: Google Play
+      url: https://play.google.com/store/music/album/Aaron_Richard_Get_This_New_Year_Over_With?id=Bdfmwuyuijslqs3l47ruyu3bx4m
