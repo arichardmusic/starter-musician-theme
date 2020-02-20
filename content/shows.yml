@@ -1,15 +1,9 @@
-- name: Original Artist Battle @ Connect Live in Woodstock, GA
-  date: "2020-02-16"
-  location: Connect Live Venue and Studios, 6835 Victory Dr, Woodstock, GA
-  info_url: https://www.facebook.com/events/2214545125313985/
+- name: His Rock Music Store Benefit Show @ Mountain Lake Church in Cumming, GA
+  date: "2020-02-22"
+  location: Mountain Lake Church Forsyth Campus, 3105 Dahlonega Hwy, Cumming, GA
+  info_url: https://www.facebook.com/events/201329554338051/
   # info_url and map_url are optional
  
-
-- name: Songwriters in the Round @ Smith's Olde Bar in Atlanta, GA
-  date: "2020-02-17"
-  location: Atlanta Room in Smith's Olde Bar, 1578 Piedmont Ave NE, Atlanta, GA
-  info_url: https://facebook.com/events/s/writers-on-the-road-ft-richlov/1563053227185894/?ti=icl
-  
 
 - name: North Georgia House Concert Series @ The Sweetwater Cafe in Cumming, GA
   date: "2020-03-01"
