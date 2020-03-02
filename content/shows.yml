@@ -1,23 +1,19 @@
-- name: His Rock Music Store Benefit Event @ Mountain Lake Church in Cumming, GA
-  date: "2020-02-22"
-  location: Mountain Lake Church Forsyth Campus, 3105 Dahlonega Hwy, Cumming, GA
-  info_url: https://www.facebook.com/events/201329554338051/
-  # info_url and map_url are optional
- 
-
-- name: North Georgia House Concert Series @ The Sweetwater Cafe in Cumming, GA
-  date: "2020-03-01"
-  location: Sweetwater Cafe House Concerts, 3190 Sweetwater Dr, Cumming, GA
-  info_url: http://sweetwater-cafe.com/
-  
-  
 - name: Georgia Has Talent Event in Canton, GA
   date: "2020-03-08"
   location: Cherokee High School Auditorium, 930 Marietta Hwy, Canton, GA
   info_url: http://www.georgiahastalent.com/index.php
-  
-  
+  # info_url and map_url are optional
+ 
+
 - name: Nashville Rising Song Contest @ The Dogwood in Nashville, TN
   date: "2020-03-10"
   location: The Dogwood, 1907 Division St, Nashville, TN
   info_url: https://www.nashvillerisingsong.com/
+  
+  
+- name: Acoustic Night @ His Rock Music in Cumming, GA
+  date: "2020-03-15"
+  location: Ponce de Leon Music Store, 1060 Dahlonega Hwy, Cumming, GA
+  info_url: https://www.facebook.com/events/894946770975392/
+  
+
